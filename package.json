@@ -1,0 +1,19 @@
+{
+  "name": "domify",
+  "version": "0.1.0",
+  "description": "Simple DOM reader to extract Object follow the Page Object Pattern",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegoCruz1991/domify.git"
+  },
+  "author": "Diego Cruz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegoCruz1991/domify/issues"
+  },
+  "homepage": "https://github.com/diegoCruz1991/domify#readme"
+}
